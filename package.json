@@ -1,0 +1,18 @@
+{
+  "name": "36scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "totalIDdetection.com ◄ Get Your FREE Credit Score totalIDdetection.com, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "totalIDdetection.com",
+    "what credit score does mortgage lenders use",
+    "credit score bracket",
+    "who credit score for mortgage",
+    "credit score versus mortgage rate"
+  ],
+  "repository": "https://github.com/truelestor/36scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
